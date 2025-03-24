@@ -1,68 +1,53 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Josue Ismael Lopez Ramirez",
+    "label": "Full Stack Developer con más de 5 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "josuelopezr97@proton.me",
+    "phone": "+505 88658606",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+5 años de experiencia como Desarrollador Web. Actualmente soy Backend Developer en Applaudo Studios. Vivo en Managua, Nicaragua. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "11001",
+      "city": "Managua",
+      "countryCode": "NIO",
+      "region": "Nicaragua"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "josue-lopez-69b9011b0",
+        "url": "linkedin.com/in/josue-lopez-69b9011b0"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "JosueLopezRamirez",
+        "url": "https://github.com/JosueLopezRamirez"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Applaudo Studios",
+      "position": "Senior Backend Developer",
+      "url": "https://www.applaudo.com",
+      "startDate": "2024-10-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Colabore en el desarrollo del backend de la plataforma encargada de la recoleccion de impuesto para el gobierno de El Salvador en colaboracion con Google. Recorté los tiempos de entrega y despliegues a producción a la mitad.",
       "highlights": [
-        "Started the company"
+        "Backend", "Google Cloud Platform"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "SMBS Solutions - Contractor",
+      "position": "Full Stack Developer",
+      "url": "https://www.smbssolutions.com",
+      "startDate": "2019-12-15",
+      "endDate": null,
+      "summary": "Desarrolle multiples aplicativos web para clientes internacionales, abarcando aplicativos frontend, backend y mobile, desde la creación de la base de datos hasta el despliegue en producción. Implementé un microservicio que nos ayudo con la autenticación y autorización para los usuarios en distintas aplicaciones",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+        "Frontend & Backend", "Mobile", "Amazon Web Services", "Microservicios"
       ]
     }
   ],
@@ -78,63 +63,49 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Nacional de Ingenieria",
+    "url": "https://uni.edu.ni",
+    "area": "Ingeniero en Computacion",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+    "startDate": "2017-01-01",
+    "endDate": "2022-01-01"
+  },
+  {
+    "institution": "Academia Europea",
+    "url": "https://academiaeuropea.com/nicaragua",
+    "area": "Aprendizaje de Inglés",
+    "studyType": "Curso",
+    "startDate": "2025-01-01",
+    "endDate": "2026-07-01"
+  }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "NestJS",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web", "Backend", "NodeJS Framework"
       ]
     },
     {
@@ -153,6 +124,13 @@
     },
     {
       "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Mongo",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
@@ -194,7 +172,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [{
