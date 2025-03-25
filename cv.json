@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "josuelopezr97@proton.me",
     "phone": "+505 88658606",
-    "url": "https://midu.dev",
+    "url": "https://minimalist-portfolio-blush.vercel.app",
     "summary": "+5 años de experiencia como Desarrollador Web. Actualmente soy Backend Developer en Applaudo Studios. Vivo en Managua, Nicaragua. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "josue-lopez-69b9011b0",
-        "url": "linkedin.com/in/josue-lopez-69b9011b0"
+        "url": "https://www.linkedin.com/in/josue-lopez-69b9011b0"
       },
       {
         "network": "GitHub",
@@ -76,7 +76,7 @@
     "area": "Aprendizaje de Inglés",
     "studyType": "Curso",
     "startDate": "2025-01-01",
-    "endDate": "2026-07-01"
+    "endDate": null
   }
   ],
   "skills": [
@@ -188,66 +188,46 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "Beonshop",
+      "isActive": false,
+      "description": "Plataforma SaaS diseñada para ayudar a empresas y emprendedores a gestionar sus proyectos en línea de manera sencilla, segura y escalable.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Saas",
+        "Frontend",
+        "React & Javascript"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.linkedin.com/company/beonshop/?originalSubdomain=es"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "PTAS Portal",
+      "isActive": false,
+      "description": "Plataforma para la recaudacion de impuestos para el condado de King County",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Recaudacion de Impuestos",
+        "Microsoft Dynamics"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://kingcounty.gov"
     },
     {
-      "name": "Codember",
+      "name": "Proyecto Gestion Tributaria",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Plataforma para la recaudacion de impuestos para el estado de Zacatecoluca de el Gobierno de El Salvador con tecnologias Google",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Recaudacion de Impuestos",
+        "Google Cloud Platform"
       ],
-      "url": "https://codember.dev"
+      "url": null
     },
     {
-      "name": "codi.link",
+      "name": "CMS for Smbs Solutions website",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "CMS para alimentar todo el contenido de la pagina web de Smbs Solutions, incluye manejo de posiciones, blog, servicios, etc.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "CMS",
+        "Frontend",
+        "Backend"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://www.smbssolutions.com"
     }
   ]
 }
