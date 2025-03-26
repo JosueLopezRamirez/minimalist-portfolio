@@ -1,68 +1,53 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Josue Ismael Lopez Ramirez",
+    "label": "Full Stack Developer with over 5 years of experience",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "josuelopezr97@proton.me",
+    "phone": "+505 88658606",
+    "url": "https://minimalist-portfolio-blush.vercel.app",
+    "summary": "+5 years of experience as a Web Developer. Currently, I am a Backend Developer at Applaudo Studios. I live in Managua, Nicaragua. I have worked in different environments: from accelerating startup development to leading teams.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "11001",
+      "city": "Managua",
+      "countryCode": "NIO",
+      "region": "Nicaragua"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "josue-lopez-69b9011b0",
+        "url": "https://www.linkedin.com/in/josue-lopez-69b9011b0"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "JosueLopezRamirez",
+        "url": "https://github.com/JosueLopezRamirez"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Applaudo Studios",
+      "position": "Senior Backend Developer",
+      "url": "https://www.applaudo.com",
+      "startDate": "2024-10-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Collaborated in the development of the backend for the platform responsible for tax collection for the government of El Salvador in collaboration with Google. Reduced delivery and production deployment times by half.",
       "highlights": [
-        "Started the company"
+        "Backend", "Google Cloud Platform"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "SMBS Solutions - Contractor",
+      "position": "Full Stack Developer",
+      "url": "https://www.smbssolutions.com",
+      "startDate": "2019-12-15",
+      "endDate": null,
+      "summary": "Developed multiple web applications for international clients, covering frontend, backend, and mobile applications, from database creation to production deployment. Implemented a microservice that helped with authentication and authorization for users across different applications.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
+        "Frontend & Backend", "Mobile", "Amazon Web Services", "Microservices"
       ]
     }
   ],
@@ -77,113 +62,107 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Universidad Nacional de Ingenieria",
+      "url": "https://uni.edu.ni",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2017-01-01",
+      "endDate": "2022-01-01"
+    },
+    {
+      "institution": "Academia Europea",
+      "url": "https://academiaeuropea.com/nicaragua",
+      "area": "English Learning",
+      "studyType": "Course",
+      "startDate": "2025-01-01",
+      "endDate": null
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "NestJS",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Backend", "NodeJS Framework"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Databases", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Mongo",
+      "level": "Advanced",
+      "keywords": [
+        "Databases", "SQL", "Data Storage", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Version Control", "Collaboration", "Source Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "Version Control", "Collaboration", "Source Code", "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -194,7 +173,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [{
@@ -210,66 +189,50 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "name": "Beonshop",
+      "isActive": false,
+      "description": "SaaS platform designed to help businesses and entrepreneurs manage their online projects in a simple, secure, and scalable way.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "SaaS",
+        "Frontend",
+        "React & JavaScript"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.linkedin.com/company/beonshop/?originalSubdomain=es"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "name": "Portal for the King County Property Tax Administration System",
+      "isActive": false,
+      "description": "This 100% Microsoft cloud-based solution sets the stage for other state and local governments to realize the value of Dynamics 365 and its secure integration to Office 365, Azure, and the Power Platform.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Tax Collection",
+        "Microsoft Dynamics 365",
+        "ReactJS"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://kingcounty.gov"
     },
     {
-      "name": "Codember",
+      "name": "Tax Management Project",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Tax collection platform for the state of Zacatecoluca for the Government of El Salvador using Google technologies.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "Tax Collection",
+        "Java",
+        "Google Cloud Platform", "Spring Boot"
       ],
-      "url": "https://codember.dev"
+      "url": null
     },
     {
-      "name": "codi.link",
+      "name": "CMS for Smbs Solutions website",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "CMS to manage all content on the Smbs Solutions website, including job postings, blog, services, etc.",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "CMS",
+        "Frontend",
+        "Backend",
+        "Laravel", "Amazon Web Services"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://www.smbssolutions.com",
+      "github": null
     }
   ]
 }

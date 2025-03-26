@@ -199,12 +199,12 @@
       "url": "https://www.linkedin.com/company/beonshop/?originalSubdomain=es"
     },
     {
-      "name": "PTAS Portal",
+      "name": "Portal for the King County Property Tax Administration System",
       "isActive": false,
       "description": "Plataforma para la recaudacion de impuestos para el condado de King County",
       "highlights": [
         "Recaudacion de Impuestos",
-        "Microsoft Dynamics"
+        "Microsoft Dynamics 365"
       ],
       "url": "https://kingcounty.gov"
     },
