@@ -103,13 +103,6 @@
       ]
     },
     {
-      "name": "NestJS",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development", "Backend", "NodeJS Framework"
-      ]
-    },
-    {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
@@ -117,10 +110,45 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Advanced",
       "keywords": [
         "Web Development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "NodeJS Framework"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Microservices"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Microservices"
       ]
     },
     {
@@ -152,28 +180,7 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
       "name": "RabbitMQ",
-      "level": "Advanced",
-      "keywords": [
-        "Backend", "Microservices"
-      ]
-    },
-    {
-      "name": "Spring Boot",
       "level": "Advanced",
       "keywords": [
         "Backend", "Microservices"
