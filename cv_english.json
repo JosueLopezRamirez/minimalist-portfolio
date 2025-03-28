@@ -164,6 +164,20 @@
       "keywords": [
         "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Microservices"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Microservices"
+      ]
     }
   ],
   "languages": [
