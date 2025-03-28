@@ -245,7 +245,7 @@
     {
       "name": "CMS for Smbs Solutions website",
       "isActive": true,
-      "description": "CMS to manage all content on the Smbs Solutions website, including job postings, blog, services, etc.",
+      "description": "CMS to manage all content on the smbssolutions website, including job postings, blog, services, etc.",
       "highlights": [
         "CMS",
         "Frontend",
@@ -253,7 +253,7 @@
         "Laravel", "Amazon Web Services"
       ],
       "url": "https://www.smbssolutions.com",
-      "github": null
+      "github": "https://github.com/JosueLopezRamirez/smbs-cms"
     }
   ]
 }
