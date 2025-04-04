@@ -254,6 +254,19 @@
       ],
       "url": "https://www.smbssolutions.com",
       "github": "https://github.com/JosueLopezRamirez/smbs-cms"
+    },
+    {
+      "name": "Spring Boot Microservices Project for Inventory Management",
+      "isActive": true,
+      "description": "This project demonstrates a microservices architecture built using Spring Boot. It includes a set of independent services that communicate with each other using REST and service discovery, and are routed through an API Gateway.",
+      "highlights": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Backend",
+        "Docker", "Databases"
+      ],
+      "url": null,
+      "github": "https://github.com/JosueLopezRamirez/microservices/tree/master"
     }
   ]
 }
