@@ -66,10 +66,10 @@
     {
       "institution": "Universidad Nacional de Ingenieria",
       "url": "https://uni.edu.ni",
-      "area": "Computer Engineering",
+      "area": "Bachelor's degree in Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2017-01-01",
-      "endDate": "2022-01-01"
+      "startDate": "2016-01-01",
+      "endDate": "2021-01-01"
     },
     {
       "institution": "Academia Europea",
@@ -86,6 +86,13 @@
       "level": "Advanced",
       "keywords": [
         "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Advanced",
+      "keywords": [
+        "Cache Managment", "Backend"
       ]
     },
     {
