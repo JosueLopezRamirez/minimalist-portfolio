@@ -89,13 +89,6 @@
       ]
     },
     {
-      "name": "Redis",
-      "level": "Advanced",
-      "keywords": [
-        "Cache Managment", "Backend"
-      ]
-    },
-    {
       "name": "CSS",
       "level": "Advanced",
       "keywords": [
@@ -156,6 +149,13 @@
       "level": "Advanced",
       "keywords": [
         "Backend", "Microservices"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Advanced",
+      "keywords": [
+        "Cache Managment", "Backend"
       ]
     },
     {
